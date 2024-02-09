@@ -1,11 +1,18 @@
 const projects = [
-
+{
+    name: "MoonQuaker project - Space Apps Challenge 2022 ",
+    date: "Oct, 2022",
+    purpose: ["Learning", "3D animation"],
+    desc: "Our project uses the CGI moon kit DEM Digital Elevation Map and other images to create a photorealistic model of the moon where quakes and artificial impacts from different datasest belonging to the Apollo Lunar Surface Experiments are mapped",
+    liveLink: "https://www.youtube.com/watch?v=c3x6q36DnuU&t=5227s",
+    srcLink: "https://github.com/MOON-QUAKERS/MOON-QUAKE-PROJECT",
+  },
   {
     name: "Crop prediction",
     date: "Jan, 2022",
     purpose: ["Learning", "Artificial Intelligence"],
     desc: "Notebook with a Crop prediction project for IA Saturdays Course. Click on Live Project to watch our demo live presentation.",
-    liveLink: "https://www.youtube.com/watch?v=c3x6q36DnuU&t=5227s",
+    liveLink: "https://moon-quakers.github.io/MOON-QUAKE-PROJECT/",
     srcLink: "https://github.com/martamateu/crop-prediction",
   },
   {
