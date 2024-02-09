@@ -7,6 +7,14 @@ const blogs = [
     `,
     link: "https://medium.com/saturdays-ai/an%C3%A1lisis-sobre-el-rendimiento-del-cultivo-de-ma%C3%ADz-en-illinois-22edf86360ba",
   },
+  {
+    name: "Empowering the Elderly: 3 Valuable Lessons Learned Teaching Tech to Seniors",
+    date: "May 13, 2023",
+    desc: `
+    Valuable Lessons Learned Teaching Tech to Seniors
+    `,
+    link: "https://medium.com/@martamateu18/title-empowering-the-elderly-3-valuable-lessons-learned-teaching-tech-to-seniors-ca95809b5750",
+  },
   
 ];
 
